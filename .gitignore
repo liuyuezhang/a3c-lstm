@@ -1,3 +1,9 @@
+# Result
+res/
+
+# PyCharm
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -39,8 +45,8 @@ pip-delete-this-directory.txt
 htmlcov/
 .tox/
 .coverage
-.coverage.*
-.cache
+.coverage.*.cache
+
 nosetests.xml
 coverage.xml
 *.cover
